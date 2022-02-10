@@ -1,0 +1,193 @@
+@import 'null.css';
+@import url('https://fonts.googleapis.com/css2?family=Festive&display=swap');
+.wrapper {
+    min-height: 100%;
+    overflow: hidden;
+}
+body {
+    font-family: 'Festive';
+    font-size: 30px;
+}
+.verh {
+    background-color: aqua;
+    min-height: 600px;
+}
+   
+.zag {
+    background-color: blueviolet;
+    min-height: 60px;
+    padding: 20px 0px 0px 50px;
+    width: 350px;
+    margin:0px auto 30px auto;
+    border: 5px solid red; 
+    box-shadow: 5px 5px 5px rebeccapurple;
+    border-radius: 20%;
+    font-size: 70px;
+    font-weight: 900;
+    font-family: cursive;
+}
+.pynkt {
+    border: 5px solid red;
+    
+    background-color: gold;
+    width: 300px;
+    margin: 0px auto 40px auto;
+    }
+
+.pynkt2 {
+    background-color: forestgreen;
+    min-height: 90px;
+    width: 300px;
+    padding: 5px 5px 5px 20px;
+    margin: 0px 0px 70px 650px;
+    border: 9px solid red;
+    border-radius: 50% ;
+}  
+.pynkt3 {
+    background-color: blue;
+    min-height: 70px;
+    width: 200px;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 0px 70px 400px;
+    border: 5px solid red;
+}
+.pynkt4 {
+    background-color: chartreuse;
+    min-height: 70px;
+    width: 200px;
+    padding: 5px 5px 5px 5px;
+    margin: 0px 0px 70px 150px;
+    border: 5px solid red; 
+}
+.zag2 {
+    background-color: blue;
+    font-size: 35px;
+    font-family: cursive;
+    font-weight: 900;
+    border-bottom: 10px dotted red;
+    box-shadow: inset 40px 10px 10px red;
+    outline: 10px dashed chocolate;
+    min-height: 100px;
+    padding: 20px 10px 10px 40px;
+    margin: 0px auto 70px auto;
+    width: 900px;
+    text-transform: capitalize;
+    text-decoration:line-through;
+}
+.text {
+    outline: 10px double chocolate;
+    width: 750px;
+    text-align: center;
+    line-height: 70px;
+    margin: 0px auto 70px auto;
+    color: blue;
+    font-size: 35px;
+    min-height: 150px
+
+}
+
+.text2 {
+    background-color: blueviolet;
+    font-family: cursive  ;
+    letter-spacing: 10px;
+    word-spacing: 15px;
+    text-align: justify;
+    text-decoration: underline;
+    text-shadow: 10px 10px 4px yellow;
+    text-transform: capitalize;
+    text-indent: 100px;
+    opacity: 0.4;
+}
+.text3 {
+    opacity: 0;
+    min-height: 100px;
+    font-size: 50px;
+}
+.zag3 {
+    font-size: 40px;
+    font-family:fantasy;
+    text-shadow: 5px 15px 4px black;
+    margin: 0px auto 50px 50px;
+}
+
+.text4 {
+    font-size: 45px;
+    font-family: cursive;
+    text-shadow: 20px 20px 4px green;
+    text-transform: uppercase;
+    text-decoration: overline;
+    border: 5px solid fuchsia;
+}
+
+.podtext {
+    visibility: hidden;
+    font-size: 70px;
+}
+.text5 {
+    font-size: 40px;
+    font-family: 'Lucida Sans';
+    color: blue;
+    width: 900px;
+    margin: 100px auto 300px auto;
+    font-weight: 700;
+    text-align: right;
+    line-height: 3;
+    word-spacing: 50px;
+    border: dashed;
+    border-radius: 30%;
+    padding: 30px 60px 0px 0px;
+    min-height: 600px;
+    outline: 50px dashed blueviolet; 
+}
+.text6 {
+    color: red;
+    font-size: 50px;
+    max-height: 400px;
+    font-weight: 900;
+    font-style: oblique ;
+    text-transform: capitalize;
+    text-decoration: underline green;
+    line-height: 3;
+    width: 400px;
+    margin: 0px auto 300px auto;
+    overflow: auto;
+
+}
+.zag4 {
+    color: hotpink;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 900; 
+    margin: 0px 0px 200px 0px;
+    padding: 0px 0px 0px 50px;
+}
+.text7 {
+    text-indent: 100px;
+    color: blue;
+    font-style: italic;
+    font-size: 50px;
+    width: 900px;
+    margin: 0px auto 200px auto;
+    font-weight: 700;
+    line-height: 6;
+    text-decoration:line-through red;
+    min-height:auto;
+    border:inset 40px green
+}
+.string1 {
+    border-bottom:  10px dashed black;
+    font-size: 50px;
+    line-height: 3;
+    background-color: blue;
+    text-transform: uppercase;    
+
+}
+.text8 {
+    font-size: 40px;
+    margin: 100px auto 100px auto;
+    font-style: italic;
+    color: chocolate;
+    font-weight: 800;
+    min-height: 400px;
+    text-decoration: line-through;
+}
